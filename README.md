@@ -12,8 +12,8 @@ The Greeter contract stores a name provided during deployment and returns a gree
    npm install
 
 2. Create a .env file:
-   SEPOLIA_RPC_URL=your_rpc_url
-   PRIVATE_KEY=your_private_key
+   SEPOLIA_RPC_URL
+   PRIVATE_KEY
 
 ## Compile
 
