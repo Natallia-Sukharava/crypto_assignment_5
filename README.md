@@ -31,4 +31,4 @@ npx hardhat run scripts/test-greeter.js --network sepolia
 ## Result
 
 The greet() function returns:
-Hello, <name>
+Hello, name
